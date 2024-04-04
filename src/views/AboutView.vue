@@ -1,5 +1,3 @@
 <template>
-    <div>
-        ini ABOUT
-    </div>
+  <div>Test</div>
 </template>
